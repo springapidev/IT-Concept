@@ -1,0 +1,26 @@
+Evidence Assesment, Date: 06/09/2018
+Part-1:
+1.Open the volume slider from the task bar using the mouse or keyboard
+2.Mute the sound
+3.Unmute the sound
+4.Open the control panel from the start menu
+5.Select display options
+6.Change the font size
+7.Change it back if required
+8. Change the Desktop Background Image.
+9. Install Notepad++
+10. UnInstall Notepad
+
+Part-2:
+1.Open the ‘Notepad’ application from the start menu in accessories
+2.Type some words in the window
+3.Minimise the window to the task bar
+4.Open the ‘Paint’ application from the start menu in accessories
+5.Minimise it to the task bar
+6.Re-open the Notepad window from the task bar
+7.Maximise the Notepad window
+8.Restore the notepad window back down.
+9.Save the text (.txt)file you have created to the desktop.
+10.Close the notepad window
+11.Re-open the paint window
+12.Close the paint window
