@@ -1,0 +1,37 @@
+GIT Command Review:
+Suppose now I am at the Class
+Step-1: Open git comand line tool using.....
+right click->select 'git bash here'
+Step-2: git pull origin master
+Step-3: I shall work in the folder if there is any task.
+After completing work......................
+Step-4: git status                  ..... Optional
+Step-5: git add .               // all files added
+Step-6: git commit -m "dhaka and sylhet"     // never give same message at same repository
+Step-7: git push origin master
+
+================In brief====================
+Step-1: git pull origin master
+........kaj complete korbo.........
+Step-2: git add .              
+Step-3: git commit -m "dhaka and sylhet"   
+Step-4: git push origin master
+
+=======Suppose now at Home==============
+Step-1: git clone https://github.com/springapidev/IT-Concepts.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
